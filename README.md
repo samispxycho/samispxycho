@@ -1,7 +1,7 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1 align="center">Hi 👋, I'm Sameer Upadhyay</h1>
-<h3 align="center">Student at Graphic Era Deemed To Be University || Java Devotee || Data Structures || Front-End Developer || SQL || Operating Systems</h3>
+<h3 align="center">Java Devotee || Data Structures || Front-End Developer || SQL || Operating Systems</h3>
 
 <img align="right" alt="cod" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
